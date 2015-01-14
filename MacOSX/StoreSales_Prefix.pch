@@ -1,0 +1,33 @@
+//
+// Prefix header for all source files of the 'StoreSales' target in the 'StoreSales' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
+
+#import <objc/runtime.h>
+
+//
+// Enable scraping log file from iTunes connect directly
+//
+#define _ITC_SCRAPING
+
+//
+// Encrypting flag
+//
+//#define _NO_ENCRYPTING
+
+#define kBonjourIdentifier @"StoreSalesPairing"
+
+#ifdef	_DEBUG
+	#define	DNSLog(...);	//NSLog(__VA_ARGS__);
+	#define DNSLogMethod	//NSLog( @"[%s] %@", class_getName([self class]), NSStringFromSelector(_cmd) );
+#else
+	#define DNSLog(...);	// NSLog(__VA_ARGS__);
+	#define DNSLogMethod	// NSLog( @"[%s] %@", class_getName([self class]), NSStringFromSelector(_cmd) );
+#endif
+
+#import "AppDelegate.h"
+
+AppDelegate *UIAppDelegate;

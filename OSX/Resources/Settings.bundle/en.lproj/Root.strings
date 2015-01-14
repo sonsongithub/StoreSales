@@ -1,0 +1,54 @@
+﻿/* A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences. */
+
+"username" = "User name";
+"password" = "Password";
+
+"currency" = "Currency";
+"currencyCode" = "Currency";
+
+// http://en.wikipedia.org/wiki/ISO_4217
+// http://ja.wikipedia.org/wiki/ISO_4217
+"AED" = "United Arab Emirates dirham";
+"AUD" = "Australian dollar";
+"BHD" = "Bahraini dinar";
+"BND" = "Brunei dollar";
+"BRL" = "Brazilian real";
+"CAD" = "Canadian dollar";
+"CHF" = "Swiss franc";
+"CLP" = "Chilean peso";
+"CNY" = "Renminbi";
+"CYP" = "EUR";
+"CZK" = "Czech koruna";
+"DKK" = "Danish krone";
+"EUR" = "Euro";
+"GBP" = "Pound sterling";
+"HKD" = "Hong Kong dollar";
+"HUF" = "Forint";
+"IDR" = "Rupiah";
+"ILS" = "Israeli new sheqel";
+"INR" = "Indian rupee";
+"ISK" = "Iceland krona";
+"JPY" = "Japanese yen";
+"KRW" = "South Korean won";
+"KWD" = "Kuwaiti dinar";
+"KZT" = "Tenge";
+"LKR" = "Sri Lanka rupee";
+"MTL" = "EUR";
+"MUR" = "Mauritius rupee";
+"MXN" = "Mexican peso";
+"MYR" = "Malaysian ringgit";
+"NOK" = "Norwegian krone";
+"NPR" = "Nepalese rupee";
+"NZD" = "New Zealand dollar";
+"OMR" = "Rial Omani";
+"PKR" = "Pakistan rupee";
+"QAR" = "Qatari rial";
+"RUB" = "Russian rouble";
+"SAR" = "Saudi riyal";
+"SEK" = "Swedish krona";
+"SGD" = "Singapore dollar";
+"SKK" = "EUR";
+"THB" = "Baht";
+"TWD" = "New Taiwan dollar";
+"USD" = "US dollar";
+"ZAR" = "South African rand";

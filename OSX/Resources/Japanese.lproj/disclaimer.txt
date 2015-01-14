@@ -1,0 +1,24 @@
+
+*免責条項
+
+*StoreSalesの使用には，Intel CPUでMac OSX 10.6以降が動作するMacとStoreSalesが動作するiPhone/iPod touch，それらが接続可能なWiFiネットワークが必要です．
+
+*StoreSalesは，AppStoreでの売り上げ・ダウンロード数をiTunes connectから直接ダウンロードして，表示するビューアです．
+
+*iTunes connectの仕様が変更になったり，データベースの形式が変更になった場合，StoreSalesは正しく表示ができない可能性があります．
+
+*iTunes connectの仕様により，開発者は，永続的に正しくStoreSalesが動作することを保証しません．
+
+*開発者は，iTunes connectの売り上げデータのファイルの仕様変更に対する，永続的なサポートを保証しません．
+
+*iTunes connectの仕様変更とは，Appleが売り上げ情報を公開しなくなったり，情報の提供方法を変更したり，情報の売り上げ情報のデータファイルの仕様を変更したり，AppleによるStoreSalesのようなアプリケーションの使用の禁止などを意味します．
+
+*StoreSalesは，StoreSalesが保持する通貨レートを使って，売り上げを表示します．
+
+*StoreSalesが保持する通貨レートは，常に最新のデータであり，過去の通貨レートを保持していません．
+
+*StoreSalesが表示する売り上げは，概算であり，目安です．
+
+*開発者は，StoreSalesで表示されるデータの正当性を保証しません．
+
+*StoreSalesを使用したことに伴う如何なる損害，被害も開発者は補償しません．

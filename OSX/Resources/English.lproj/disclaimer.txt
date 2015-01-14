@@ -1,0 +1,26 @@
+
+*Disclaimer
+
+*Developer means sonson or seller.
+
+*StoreSales needs Mac(Intel CPU, MacOSX10.6), iPhone/iPod touch which runs StoreSales and WiFi network which is connected by them.
+
+*StoreSales is a viewer which downloads your AppStore account data from iTunes connect directly, and display them.
+
+*According to modification of the specification of iTunes connect, StoreSales can't display sales information correctly.
+
+*According to modification of the specification of iTunes connect, developer DOES NOT GURANTEE that StoreSales shows correct content permanently．
+
+*Developer DOES NOT GURANTEE that StoreSales supports a future specification of iTunes connect.
+
+*Modification of the specification of iTunes connect means that, "Apple stops to open sales info to you", "Apple changes the way to provide sales info", "Apples changes the specification of iTunes connect and sales info file" and "Apple prohibit us from using applications such as StoreSales".
+
+*StoreSales contains the international currency rates to convert sales result into your favorite currency.
+
+*StoreSales does not contain history of currency rates obtained from web, StoreSales contains only the latest currency rates.
+
+*In short, StoreSales shows sales as a rough estimate.
+
+*Developer DOES NOT GUARANTEE that what StoreSales shows is correct.
+
+*Developer DOES NOT COMPENSATE for your damege which is caused by using StoreSales.

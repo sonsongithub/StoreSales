@@ -1,0 +1,54 @@
+﻿/* A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences. */
+
+"username" = "ユーザ名";
+"password" = "パスワード";
+
+"currency" = "通貨";
+"currencyCode" = "通貨";
+
+// http://en.wikipedia.org/wiki/ISO_4217
+// http://ja.wikipedia.org/wiki/ISO_4217
+"AED" = "UAEディルハム";
+"AUD" = "オーストラリア・ドル";
+"BHD" = "バーレーン・ディナール";
+"BND" = "ブルネイ・ドル";
+"BRL" = "レアル";
+"CAD" = "カナダ・ドル";
+"CHF" = "スイス・フラン";
+"CLP" = "チリ・ペソ";
+"CNY" = "人民元";
+"CYP" = "キプロス・ポンド";
+"CZK" = "チェコ・コルナ";
+"DKK" = "デンマーク・クローネ";
+"EUR" = "ユーロ";
+"GBP" = "UKポンド";
+"HKD" = "香港ドル";
+"HUF" = "フォリント";
+"IDR" = "ルピア";
+"ILS" = "新シェケル";
+"INR" = "インド・ルピー";
+"ISK" = "アイスランド・クローナ";
+"JPY" = "円";
+"KRW" = "ウォン";
+"KWD" = "クウェート・ディナール";
+"KZT" = "テンゲ";
+"LKR" = "スリランカ・ルピー";
+"MTL" = "マルタ・リラ";
+"MUR" = "モーリシャス・ルピー";
+"MXN" = "メキシコ・ペソ";
+"MYR" = "リンギット";
+"NOK" = "ノルウェー・クローネ";
+"NPR" = "ネパール・ルピー";
+"NZD" = "ニュージーランド・ドル";
+"OMR" = "オマーン・リヤル";
+"PKR" = "パキスタン・ルピー";
+"QAR" = "カタール・リヤル";
+"RUB" = "ロシア・ルーブル";
+"SAR" = "サウディ・リヤル";
+"SEK" = "スウェーデン・クローナ";
+"SGD" = "シンガポール・ドル";
+"SKK" = "スロバキア・コルナ";
+"THB" = "バーツ";
+"TWD" = "ニュー台湾ドル";
+"USD" = "アメリカ合衆国ドル";
+"ZAR" = "ランド";
